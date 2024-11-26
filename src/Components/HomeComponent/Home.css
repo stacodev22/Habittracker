@@ -1,0 +1,9 @@
+.imageContent {
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.28;
+}
+
+.btnWidth {
+  width: 150px;
+}
